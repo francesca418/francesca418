@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @francesca418
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Francesca Marini
+- 👀 I’m interested in big data, ethical AI, & interdisciplinary sciences
+- 🌱 I’m currently learning how to ~adult~
+- 💞️ I’m looking to collaborate on anything cool - don't hesitate to reach out!
+- 📫 How to reach me: email me at fmarini@seas.upenn.edu (or check out my personal website linked in bio)
 
 <!---
 francesca418/francesca418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
